@@ -1,7 +1,3 @@
-Thanks for the details, Ahmed! Based on your answers, I’ll generate a GitHub profile README for you. Here's a draft of what it could look like:
-
----
-
 # Hi there, I'm Ahmed Abdelaleem 👋
 
 I'm a passionate **Junior Java Backend Engineer** with experience in **Enterprise Java Tools**. Currently, I'm a trainee in the **ITI Program** and focused on growing my skills in backend development and Java technologies.
@@ -45,17 +41,3 @@ I'm currently focusing on improving my skills in Java, Spring Boot, and working 
 - **Version Control:** Git, GitHub
 
 ---
-
-## 📈 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelaleem&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
----
-
-## 👨‍💻 GitHub Contributions
-
-![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelaleem&theme=dark)
-
----
-
-Let me know if you’d like any edits or additions!
