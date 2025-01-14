@@ -1,20 +1,61 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> I am Ahmed AbdElAleem, Welcome To My Github Profile </h1>
-<!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome To My Github Profile ♥  -->
-<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
+Thanks for the details, Ahmed! Based on your answers, I’ll generate a GitHub profile README for you. Here's a draft of what it could look like:
 
-<br/>
+---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+# Hi there, I'm Ahmed Abdelaleem 👋
 
-<h3> About Me</h3> 
-<h4> A highly motivated Embedded systems engineer and competitive programmer </h4>
+I'm a passionate **Junior Java Backend Engineer** with experience in **Enterprise Java Tools**. Currently, I'm a trainee in the **ITI Program** and focused on growing my skills in backend development and Java technologies.
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/black.gif" width= 25% height=95px>
+## About Me
 
-### 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedmo.abdelaleem@gmail.com)](mailto:ahmedmo.abdelaleem@gmail.com)
+🎓 **Computer Engineering Graduate**  
+💼 Currently a trainee at the ITI program (9 months).  
+💻 I work with Java, Spring Boot, and other enterprise-level tools to build scalable backend systems.
 
+🔧 My main focus is to improve my skills in backend development and contribute to open-source projects. I'm always excited to learn and explore new technologies!
 
+---
 
+## 💬 Connect with me!
 
+- 📧 Email: [ahmedmo.abdelaleem@gmail.com](mailto:ahmedmo.abdelaleem@gmail.com)
+- 🔗 LinkedIn: [Ahmed Abdelaleem](https://www.linkedin.com/in/ahmed-abd-el-aleem25001/)
 
+---
+
+## 🌱 Current Projects
+
+I'm currently focusing on improving my skills in Java, Spring Boot, and working with enterprise-level applications. Feel free to check out any projects I’ve been working on!
+
+---
+
+## 🏆 Achievements
+
+- **Computer Engineering Graduate**  
+- **Currently undergoing ITI Program (9-month training)**  
+- Working on enhancing my skills in enterprise-grade Java tools.
+
+---
+
+## 🔧 Technologies I work with:
+
+- **Languages:** Java, SQL
+- **Frameworks/Tools:** Spring Boot, Hibernate, REST APIs
+- **Database:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+
+---
+
+## 📈 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelaleem&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+---
+
+## 👨‍💻 GitHub Contributions
+
+![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelaleem&theme=dark)
+
+---
+
+Let me know if you’d like any edits or additions!
